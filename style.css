@@ -1,0 +1,27 @@
+body {
+    background-image: url(LiverpoolHome.jpg);
+    color: #faf3f3;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Style untuk h1 */
+h1 {
+    font-family: 'Great Vibes', cursive;
+}
+
+/* Style untuk h2 */
+h2 {
+    font-family: 'Lobster Two', cursive;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid #ffffff;
+    background:#FFFF;
+    color: #c71b1b;
+    box-shadow: 1px 1px 2px #ffffff;
+    border-radius: 10px;
+    padding: 3px 10px;
+    cursor: pointer;
+}
